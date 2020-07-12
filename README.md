@@ -6,8 +6,6 @@ https://etherscan.io/address/0xe3921259cdd8c7186e425dde2c31841cff3a7792
  *Submitted for verification at Etherscan.io on 2020-04-28
 */
 
-// BUILT ON https://vittominacori.github.io/erc20-generator
-
 // File: @openzeppelin/contracts/GSN/Context.sol
 
 pragma solidity ^0.6.0;
